@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Template-Simpsons-React/static/css/main.4f7ab489.chunk.css",
+    "main.js": "/Template-Simpsons-React/static/js/main.5bdf9c41.chunk.js",
+    "main.js.map": "/Template-Simpsons-React/static/js/main.5bdf9c41.chunk.js.map",
+    "runtime-main.js": "/Template-Simpsons-React/static/js/runtime-main.d50781b2.js",
+    "runtime-main.js.map": "/Template-Simpsons-React/static/js/runtime-main.d50781b2.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Template-Simpsons-React/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.91ec6841.chunk.js": "/Template-Simpsons-React/static/js/2.91ec6841.chunk.js",
+    "static/js/2.91ec6841.chunk.js.map": "/Template-Simpsons-React/static/js/2.91ec6841.chunk.js.map",
+    "index.html": "/Template-Simpsons-React/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Template-Simpsons-React/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.4f7ab489.chunk.css.map": "/Template-Simpsons-React/static/css/main.4f7ab489.chunk.css.map",
+    "static/js/2.91ec6841.chunk.js.LICENSE.txt": "/Template-Simpsons-React/static/js/2.91ec6841.chunk.js.LICENSE.txt",
+    "static/media/carrousel-1.9b34cf9c.jpg": "/Template-Simpsons-React/static/media/carrousel-1.9b34cf9c.jpg",
+    "static/media/carrousel-2.fd912352.jpg": "/Template-Simpsons-React/static/media/carrousel-2.fd912352.jpg",
+    "static/media/carrousel-3.424560c4.jpg": "/Template-Simpsons-React/static/media/carrousel-3.424560c4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d50781b2.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.91ec6841.chunk.js",
+    "static/css/main.4f7ab489.chunk.css",
+    "static/js/main.5bdf9c41.chunk.js"
+  ]
+}
